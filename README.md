@@ -16,4 +16,4 @@
 
 ## Preview
 
-[Tourio App](https://recap-project-4-eta.vercel.app)
+[Tourio App](https://recap-project-6.vercel.app)
